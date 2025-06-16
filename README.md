@@ -15,7 +15,7 @@ I'm a passionate **Frontend Developer** specializing in building modern, respons
 - 👯 **Looking to collaborate on:** Frontend projects, UI/UX improvements, and cross-platform mobile apps.  
 - 🤔 **Seeking help with:** Advanced frontend performance optimization and design system implementation.  
 - 💬 **Ask me about:** React, Vue.js, TypeScript, Flutter, responsive design, and frontend tooling.  
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/victor-manuel-couti%C3%B1o-silva-2a10b9297/) | victor.email@example.com  
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/victor-manuel-couti%C3%B1o-silva-2a10b9297/) | victor.coutino@outlook.com
 - 😄 **Pronouns:** He / Him  
 - ⚡ **Fun fact:** I’m passionate about turning ideas into seamless user experiences that make life easier!
 
